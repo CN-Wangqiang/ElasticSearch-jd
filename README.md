@@ -8,8 +8,8 @@
 ### 开发环境
 Mac  IDEA  
 JDK8   
-ElasticSearch 7.6.2
-elasticsearch-analysis-ik-7.6.2
+ElasticSearch 7.6.2    
+ElasticSearch-analysis-ik-7.6.2.   
 ElasticSearch-head chrome插件   
 
 ### 如何运行
