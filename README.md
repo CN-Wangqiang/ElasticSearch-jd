@@ -13,9 +13,9 @@ ElasticSearch-analysis-ik-7.6.2.
 ElasticSearch-head chrome插件   
 
 ### 如何运行
-1、git clone git@github.com:ID-WangQiang/ElasticSearch-jd.git
-2、打开ElasticSearch，使用ElasticSearch-head查看ES数据    
-3、用IDEA打开项目，运行ElasticsearchJdApplication文件 
+1、git clone git@github.com:ID-WangQiang/ElasticSearch-jd.git   
+2、打开ElasticSearch，使用ElasticSearch-head查看ES数据   
+3、用IDEA打开项目，运行ElasticsearchJdApplication文件   
 4、http://localhost:9090 测试项目ES搜索功能
 
 
